@@ -1,0 +1,1746 @@
+[
+  {
+    "Jugador": {
+      "Nombre": "Lautaro Martínez",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/406625-1695024988.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Argentina"
+    ],
+    "Edad": "27",
+    "Club": "Inter de Milán",
+    "Valor": {
+      "ValorMasAlto": "110,00 mill. €",
+      "ValorActual": "95,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Nicolò Barella",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/255942-1725531625.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "28",
+    "Club": "Inter de Milán",
+    "Valor": {
+      "ValorMasAlto": "80,00 mill. €",
+      "ValorActual": "80,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Alessandro Bastoni",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/315853-1742497518.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "26",
+    "Club": "Inter de Milán",
+    "Valor": {
+      "ValorMasAlto": "80,00 mill. €",
+      "ValorActual": "80,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Rafael Leão",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/357164-1730126553.jpg?lm=1",
+      "Posición": "Extremo izquierdo"
+    },
+    "Nacionalidades": [
+      "Portugal",
+      "Angola"
+    ],
+    "Edad": "26",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "90,00 mill. €",
+      "ValorActual": "75,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Marcus Thuram",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/318528-1746041509.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Francia",
+      "Guadalupe"
+    ],
+    "Edad": "27",
+    "Club": "Inter de Milán",
+    "Valor": {
+      "ValorMasAlto": "75,00 mill. €",
+      "ValorActual": "75,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Federico Dimarco",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/198116-1725531769.jpg?lm=1",
+      "Posición": "Lateral izquierdo"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "27",
+    "Club": "Inter de Milán",
+    "Valor": {
+      "ValorMasAlto": "60,00 mill. €",
+      "ValorActual": "60,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Ademola Lookman",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/406040-1682076571.jpg?lm=1",
+      "Posición": "Mediapunta"
+    },
+    "Nacionalidades": [
+      "Nigeria",
+      "Inglaterra"
+    ],
+    "Edad": "27",
+    "Club": "Atalanta de Bérgamo",
+    "Valor": {
+      "ValorMasAlto": "60,00 mill. €",
+      "ValorActual": "60,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Christian Pulisic",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/315779-1691696699.jpg?lm=1",
+      "Posición": "Extremo derecho"
+    },
+    "Nacionalidades": [
+      "Estados Unidos",
+      "Croacia"
+    ],
+    "Edad": "26",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "60,00 mill. €",
+      "ValorActual": "50,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Bremer",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/516716-1725531520.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Brasil"
+    ],
+    "Edad": "28",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "60,00 mill. €",
+      "ValorActual": "50,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Éderson",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/607854-1646648856.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Brasil"
+    ],
+    "Edad": "25",
+    "Club": "Atalanta de Bérgamo",
+    "Valor": {
+      "ValorMasAlto": "50,00 mill. €",
+      "ValorActual": "50,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Dušan Vlahović",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/357498-1683293071.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Serbia"
+    ],
+    "Edad": "25",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "85,00 mill. €",
+      "ValorActual": "45,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Kenan Yıldız",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/845654-1700467996.png?lm=1",
+      "Posición": "Extremo izquierdo"
+    },
+    "Nacionalidades": [
+      "Turquía",
+      "Alemania"
+    ],
+    "Edad": "20",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "45,00 mill. €",
+      "ValorActual": "45,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Alessandro Buongiorno",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/386446-1663596475.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "26",
+    "Club": "SSC Nápoles",
+    "Valor": {
+      "ValorMasAlto": "45,00 mill. €",
+      "ValorActual": "45,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Mateo Retegui",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/554903-1681311414.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Italia",
+      "Argentina"
+    ],
+    "Edad": "26",
+    "Club": "Atalanta de Bérgamo",
+    "Valor": {
+      "ValorMasAlto": "45,00 mill. €",
+      "ValorActual": "45,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Theo Hernández",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/339808-1725532072.jpg?lm=1",
+      "Posición": "Lateral izquierdo"
+    },
+    "Nacionalidades": [
+      "Francia",
+      "España"
+    ],
+    "Edad": "27",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "60,00 mill. €",
+      "ValorActual": "40,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Teun Koopmeiners",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/360518-1707302998.jpg?lm=1",
+      "Posición": "Mediocentro ofensivo"
+    },
+    "Nacionalidades": [
+      "Países Bajos"
+    ],
+    "Edad": "27",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "55,00 mill. €",
+      "ValorActual": "40,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Andrea Cambiaso",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/459658-1662127057.jpg?lm=1",
+      "Posición": "Lateral izquierdo"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "25",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "40,00 mill. €",
+      "ValorActual": "40,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Khéphren Thuram",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/463618-1683889273.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Francia",
+      "Guadalupe"
+    ],
+    "Edad": "24",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "40,00 mill. €",
+      "ValorActual": "40,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Moise Kean",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/364135-1725532147.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Italia",
+      "Costa de Marfil"
+    ],
+    "Edad": "25",
+    "Club": "Fiorentina",
+    "Valor": {
+      "ValorMasAlto": "40,00 mill. €",
+      "ValorActual": "40,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Scott McTominay",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/315969-1718626681.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Escocia",
+      "Inglaterra"
+    ],
+    "Edad": "28",
+    "Club": "SSC Nápoles",
+    "Valor": {
+      "ValorMasAlto": "40,00 mill. €",
+      "ValorActual": "40,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Douglas Luiz",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/447661-1696598670.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Brasil"
+    ],
+    "Edad": "27",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "70,00 mill. €",
+      "ValorActual": "38,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Charles De Ketelaere",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/435772-1659601388.jpg?lm=1",
+      "Posición": "Mediocentro ofensivo"
+    },
+    "Nacionalidades": [
+      "Bélgica"
+    ],
+    "Edad": "24",
+    "Club": "Atalanta de Bérgamo",
+    "Valor": {
+      "ValorMasAlto": "38,00 mill. €",
+      "ValorActual": "38,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Santiago Gimenez",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/552955-1739903736.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "México",
+      "Italia"
+    ],
+    "Edad": "24",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "50,00 mill. €",
+      "ValorActual": "37,00 mill. €"
+    },
+    "Ultimarevisión": "17/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Francisco Conceição",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/487474-1749069081.jpg?lm=1",
+      "Posición": "Extremo derecho"
+    },
+    "Nacionalidades": [
+      "Portugal"
+    ],
+    "Edad": "22",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "36,00 mill. €",
+      "ValorActual": "36,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Manu Koné",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/624690-1691248968.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Francia",
+      "Costa de Marfil"
+    ],
+    "Edad": "24",
+    "Club": "AS Roma",
+    "Valor": {
+      "ValorMasAlto": "40,00 mill. €",
+      "ValorActual": "35,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Nico Paz",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/948294-1699472504.jpg?lm=1",
+      "Posición": "Mediocentro ofensivo"
+    },
+    "Nacionalidades": [
+      "Argentina",
+      "España"
+    ],
+    "Edad": "20",
+    "Club": "Como 1907",
+    "Valor": {
+      "ValorMasAlto": "35,00 mill. €",
+      "ValorActual": "35,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Hakan Çalhanoğlu",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/126414-1709035146.jpg?lm=1",
+      "Posición": "Pivote"
+    },
+    "Nacionalidades": [
+      "Turquía",
+      "Alemania"
+    ],
+    "Edad": "31",
+    "Club": "Inter de Milán",
+    "Valor": {
+      "ValorMasAlto": "45,00 mill. €",
+      "ValorActual": "35,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Santiago Castro",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/849520-1724827267.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Argentina",
+      "Italia"
+    ],
+    "Edad": "20",
+    "Club": "Bolonia",
+    "Valor": {
+      "ValorMasAlto": "35,00 mill. €",
+      "ValorActual": "35,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Giorgio Scalvini",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/571604-1701860841.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "21",
+    "Club": "Atalanta de Bérgamo",
+    "Valor": {
+      "ValorMasAlto": "45,00 mill. €",
+      "ValorActual": "35,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Mattéo Guendouzi",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/465830-1730125468.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Francia",
+      "Marruecos"
+    ],
+    "Edad": "26",
+    "Club": "SS Lazio",
+    "Valor": {
+      "ValorMasAlto": "50,00 mill. €",
+      "ValorActual": "32,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Davide Frattesi",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/394300-1730126974.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "25",
+    "Club": "Inter de Milán",
+    "Valor": {
+      "ValorMasAlto": "35,00 mill. €",
+      "ValorActual": "32,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Youssouf Fofana",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/569598-1725528517.jpg?lm=1",
+      "Posición": "Pivote"
+    },
+    "Nacionalidades": [
+      "Francia",
+      "Malí"
+    ],
+    "Edad": "26",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "30,00 mill. €",
+      "ValorActual": "30,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "David Neres",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/469822-1701334470.jpg?lm=1",
+      "Posición": "Extremo derecho"
+    },
+    "Nacionalidades": [
+      "Brasil"
+    ],
+    "Edad": "28",
+    "Club": "SSC Nápoles",
+    "Valor": {
+      "ValorMasAlto": "45,00 mill. €",
+      "ValorActual": "30,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Randal Kolo Muani",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/487969-1718697120.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Francia",
+      "RD del Congo"
+    ],
+    "Edad": "26",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "80,00 mill. €",
+      "ValorActual": "30,00 mill. €"
+    },
+    "Ultimarevisión": "10/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Artem Dovbyk",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/343537-1719215184.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Ucrania"
+    ],
+    "Edad": "27",
+    "Club": "AS Roma",
+    "Valor": {
+      "ValorMasAlto": "35,00 mill. €",
+      "ValorActual": "30,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Benjamin Pavard",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/353366-1713819215.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Francia"
+    ],
+    "Edad": "29",
+    "Club": "Inter de Milán",
+    "Valor": {
+      "ValorMasAlto": "50,00 mill. €",
+      "ValorActual": "30,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Yann Bisseck",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/441986-1742497863.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Alemania",
+      "Camerún"
+    ],
+    "Edad": "24",
+    "Club": "Inter de Milán",
+    "Valor": {
+      "ValorMasAlto": "30,00 mill. €",
+      "ValorActual": "30,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Samuele Ricci",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/467992-1730125512.jpg?lm=1",
+      "Posición": "Pivote"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "23",
+    "Club": "Torino FC",
+    "Valor": {
+      "ValorMasAlto": "30,00 mill. €",
+      "ValorActual": "30,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Isak Hien",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/503075-1725531359.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Suecia",
+      "Burkina Faso"
+    ],
+    "Edad": "26",
+    "Club": "Atalanta de Bérgamo",
+    "Valor": {
+      "ValorMasAlto": "30,00 mill. €",
+      "ValorActual": "30,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Manuel Locatelli",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/265088-1730125083.jpg?lm=1",
+      "Posición": "Pivote"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "27",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "35,00 mill. €",
+      "ValorActual": "28,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Mario Gila",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/618341-1730127774.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "España"
+    ],
+    "Edad": "24",
+    "Club": "SS Lazio",
+    "Valor": {
+      "ValorMasAlto": "28,00 mill. €",
+      "ValorActual": "28,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Nicolò Rovella",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/525704-1730127184.jpg?lm=1",
+      "Posición": "Pivote"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "23",
+    "Club": "SS Lazio",
+    "Valor": {
+      "ValorMasAlto": "28,00 mill. €",
+      "ValorActual": "28,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Nico González",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/486031-1673442459.jpg?lm=1",
+      "Posición": "Extremo derecho"
+    },
+    "Nacionalidades": [
+      "Argentina",
+      "Italia"
+    ],
+    "Edad": "27",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "40,00 mill. €",
+      "ValorActual": "28,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Denzel Dumfries",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/321528-1746042223.jpg?lm=1",
+      "Posición": "Lateral derecho"
+    },
+    "Nacionalidades": [
+      "Países Bajos",
+      "Aruba"
+    ],
+    "Edad": "29",
+    "Club": "Inter de Milán",
+    "Valor": {
+      "ValorMasAlto": "30,00 mill. €",
+      "ValorActual": "28,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Frank Anguissa",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/354361-1695026237.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Camerún"
+    ],
+    "Edad": "29",
+    "Club": "SSC Nápoles",
+    "Valor": {
+      "ValorMasAlto": "40,00 mill. €",
+      "ValorActual": "27,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Pierre Kalulu",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/585949-1684854558.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Francia",
+      "RD del Congo"
+    ],
+    "Edad": "25",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "35,00 mill. €",
+      "ValorActual": "26,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Mike Maignan",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/182906-1681459155.jpg?lm=1",
+      "Posición": "Portero"
+    },
+    "Nacionalidades": [
+      "Francia",
+      "Guayana Francesa"
+    ],
+    "Edad": "29",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "45,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Pietro Comuzzo",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/746712-1730183199.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "20",
+    "Club": "Fiorentina",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "João Félix",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/462250-1668165358.jpg?lm=1",
+      "Posición": "Mediapunta"
+    },
+    "Nacionalidades": [
+      "Portugal"
+    ],
+    "Edad": "25",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "100,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Nuno Tavares",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/535955-1730127360.jpg?lm=1",
+      "Posición": "Lateral izquierdo"
+    },
+    "Nacionalidades": [
+      "Portugal",
+      "Cabo Verde"
+    ],
+    "Edad": "25",
+    "Club": "SS Lazio",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Taty Castellanos",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/522784-1723926679.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Argentina"
+    ],
+    "Edad": "26",
+    "Club": "SS Lazio",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Francesco Pio Esposito",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/930781-1681206455.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "19",
+    "Club": "Inter de Milán",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "02/06/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Mike Maignan",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/182906-1681459155.jpg?lm=1",
+      "Posición": "Portero"
+    },
+    "Nacionalidades": [
+      "Francia",
+      "Guayana Francesa"
+    ],
+    "Edad": "29",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "45,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Evan Ndicka",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/371149-1663064716.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Costa de Marfil",
+      "Francia"
+    ],
+    "Edad": "25",
+    "Club": "AS Roma",
+    "Valor": {
+      "ValorMasAlto": "32,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Sam Beukema",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/433984-1696837343.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Países Bajos"
+    ],
+    "Edad": "26",
+    "Club": "Bolonia",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Dan Ndoye",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/365108-1718218474.jpg?lm=1",
+      "Posición": "Extremo derecho"
+    },
+    "Nacionalidades": [
+      "Suiza",
+      "Senegal"
+    ],
+    "Edad": "24",
+    "Club": "Bolonia",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Odilon Kossounou",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/644771-1730183693.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Costa de Marfil"
+    ],
+    "Edad": "24",
+    "Club": "Atalanta de Bérgamo",
+    "Valor": {
+      "ValorMasAlto": "35,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "João Félix",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/462250-1668165358.jpg?lm=1",
+      "Posición": "Mediapunta"
+    },
+    "Nacionalidades": [
+      "Portugal"
+    ],
+    "Edad": "25",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "100,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Marco Carnesecchi",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/459763-1695027944.jpg?lm=1",
+      "Posición": "Portero"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "24",
+    "Club": "Atalanta de Bérgamo",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Assane Diao",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/1061282-1699273116.jpg?lm=1",
+      "Posición": "Extremo derecho"
+    },
+    "Nacionalidades": [
+      "Senegal",
+      "España"
+    ],
+    "Edad": "19",
+    "Club": "Como 1907",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Federico Gatti",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/509022-1725531068.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "26",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "25,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Lewis Ferguson",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/428563-1663656344.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Escocia"
+    ],
+    "Edad": "25",
+    "Club": "Bolonia",
+    "Valor": {
+      "ValorMasAlto": "24,00 mill. €",
+      "ValorActual": "24,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Gianluca Scamacca",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/315867-1659354755.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "26",
+    "Club": "Atalanta de Bérgamo",
+    "Valor": {
+      "ValorMasAlto": "35,00 mill. €",
+      "ValorActual": "24,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Weston McKennie",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/332697-1642687384.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Estados Unidos"
+    ],
+    "Edad": "26",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "28,00 mill. €",
+      "ValorActual": "24,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Albert Gudmundsson",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/305947-1705389252.jpg?lm=1",
+      "Posición": "Mediapunta"
+    },
+    "Nacionalidades": [
+      "Islandia"
+    ],
+    "Edad": "27",
+    "Club": "Fiorentina",
+    "Valor": {
+      "ValorMasAlto": "30,00 mill. €",
+      "ValorActual": "23,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Romelu Lukaku",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/96341-1661780981.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Bélgica",
+      "RD del Congo"
+    ],
+    "Edad": "32",
+    "Club": "SSC Nápoles",
+    "Valor": {
+      "ValorMasAlto": "100,00 mill. €",
+      "ValorActual": "22,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Lorenzo Lucca",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/572265-1725531439.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "24",
+    "Club": "Udinese",
+    "Valor": {
+      "ValorMasAlto": "22,00 mill. €",
+      "ValorActual": "22,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Dodô",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/401529-1663591985.jpg?lm=1",
+      "Posición": "Lateral derecho"
+    },
+    "Nacionalidades": [
+      "Brasil"
+    ],
+    "Edad": "26",
+    "Club": "Fiorentina",
+    "Valor": {
+      "ValorMasAlto": "22,00 mill. €",
+      "ValorActual": "22,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Matías Soulé",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/668951-1725529266.jpg?lm=1",
+      "Posición": "Extremo derecho"
+    },
+    "Nacionalidades": [
+      "Argentina",
+      "Italia"
+    ],
+    "Edad": "22",
+    "Club": "AS Roma",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "22,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Raoul Bellanova",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/357992-1695028689.jpg?lm=1",
+      "Posición": "Interior derecho"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "25",
+    "Club": "Atalanta de Bérgamo",
+    "Valor": {
+      "ValorMasAlto": "22,00 mill. €",
+      "ValorActual": "22,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Carlos Augusto",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/585982-1735891597.jpg?lm=1",
+      "Posición": "Lateral izquierdo"
+    },
+    "Nacionalidades": [
+      "Brasil",
+      "Italia"
+    ],
+    "Edad": "26",
+    "Club": "Inter de Milán",
+    "Valor": {
+      "ValorMasAlto": "22,00 mill. €",
+      "ValorActual": "22,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Yunus Musah",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/503991-1684913655.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Estados Unidos",
+      "Inglaterra"
+    ],
+    "Edad": "22",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "22,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Ange-Yoan Bonny",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/827734-1697613908.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Francia",
+      "Costa de Marfil"
+    ],
+    "Edad": "21",
+    "Club": "Parma",
+    "Valor": {
+      "ValorMasAlto": "20,00 mill. €",
+      "ValorActual": "20,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Morten Frendrup",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/503871-1707815910.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Dinamarca"
+    ],
+    "Edad": "24",
+    "Club": "Génova",
+    "Valor": {
+      "ValorMasAlto": "20,00 mill. €",
+      "ValorActual": "20,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Fikayo Tomori",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/303254-1684856117.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Inglaterra",
+      "Canadá"
+    ],
+    "Edad": "27",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "50,00 mill. €",
+      "ValorActual": "20,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Mattia Zaccagni",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/283735-1695026445.jpg?lm=1",
+      "Posición": "Extremo izquierdo"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "29",
+    "Club": "SS Lazio",
+    "Valor": {
+      "ValorMasAlto": "30,00 mill. €",
+      "ValorActual": "20,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Riccardo Orsolini",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/368482-1724827463.jpg?lm=1",
+      "Posición": "Extremo derecho"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "28",
+    "Club": "Bolonia",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "20,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Giacomo Raspadori",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/405885-1708552564.jpg?lm=1",
+      "Posición": "Mediapunta"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "25",
+    "Club": "SSC Nápoles",
+    "Valor": {
+      "ValorMasAlto": "35,00 mill. €",
+      "ValorActual": "20,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Morten Frendrup",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/503871-1707815910.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Dinamarca"
+    ],
+    "Edad": "24",
+    "Club": "Génova",
+    "Valor": {
+      "ValorMasAlto": "20,00 mill. €",
+      "ValorActual": "20,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Ange-Yoan Bonny",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/827734-1697613908.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Francia",
+      "Costa de Marfil"
+    ],
+    "Edad": "21",
+    "Club": "Parma",
+    "Valor": {
+      "ValorMasAlto": "20,00 mill. €",
+      "ValorActual": "20,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Lazar Samardžić",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/528833-1677073457.jpg?lm=1",
+      "Posición": "Mediocentro ofensivo"
+    },
+    "Nacionalidades": [
+      "Serbia",
+      "Alemania"
+    ],
+    "Edad": "23",
+    "Club": "Atalanta de Bérgamo",
+    "Valor": {
+      "ValorMasAlto": "20,00 mill. €",
+      "ValorActual": "20,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Matteo Ruggeri",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/616631-1742497680.jpg?lm=1",
+      "Posición": "Interior izquierdo"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "22",
+    "Club": "Atalanta de Bérgamo",
+    "Valor": {
+      "ValorMasAlto": "20,00 mill. €",
+      "ValorActual": "20,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Jaka Bijol",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/371851-1695029407.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Eslovenia"
+    ],
+    "Edad": "26",
+    "Club": "Udinese",
+    "Valor": {
+      "ValorMasAlto": "18,00 mill. €",
+      "ValorActual": "18,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Nicolò Fagioli",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/432090-1695025310.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "24",
+    "Club": "Fiorentina",
+    "Valor": {
+      "ValorMasAlto": "35,00 mill. €",
+      "ValorActual": "18,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Lucas Beltrán",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/628366-1692881138.jpg?lm=1",
+      "Posición": "Mediocentro ofensivo"
+    },
+    "Nacionalidades": [
+      "Argentina",
+      "Italia"
+    ],
+    "Edad": "24",
+    "Club": "Fiorentina",
+    "Valor": {
+      "ValorMasAlto": "18,00 mill. €",
+      "ValorActual": "18,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Michele Di Gregorio",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/301238-1730125609.jpg?lm=1",
+      "Posición": "Portero"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "27",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "18,00 mill. €",
+      "ValorActual": "18,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Lloyd Kelly",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/480116-1739281396.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Inglaterra",
+      "Jamaica"
+    ],
+    "Edad": "26",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "18,00 mill. €",
+      "ValorActual": "18,00 mill. €"
+    },
+    "Ultimarevisión": "16/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Renato Veiga",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/805714-1749414999.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Portugal",
+      "Cabo Verde"
+    ],
+    "Edad": "21",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "18,00 mill. €",
+      "ValorActual": "18,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Koni De Winter",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/490384-1730126791.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Bélgica"
+    ],
+    "Edad": "23",
+    "Club": "Génova",
+    "Valor": {
+      "ValorMasAlto": "18,00 mill. €",
+      "ValorActual": "18,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Ivan Ilić",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/470794-1716239802.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Serbia"
+    ],
+    "Edad": "24",
+    "Club": "Torino FC",
+    "Valor": {
+      "ValorMasAlto": "19,00 mill. €",
+      "ValorActual": "18,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Strahinja Pavlović",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/574671-1692998611.png?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Serbia"
+    ],
+    "Edad": "24",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "25,00 mill. €",
+      "ValorActual": "18,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Jhon Lucumí",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/413565-1663657119.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Colombia"
+    ],
+    "Edad": "26",
+    "Club": "Bolonia",
+    "Valor": {
+      "ValorMasAlto": "18,00 mill. €",
+      "ValorActual": "18,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Mathías Olivera",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/376514-1681910576.jpg?lm=1",
+      "Posición": "Lateral izquierdo"
+    },
+    "Nacionalidades": [
+      "Uruguay",
+      "España"
+    ],
+    "Edad": "27",
+    "Club": "SSC Nápoles",
+    "Valor": {
+      "ValorMasAlto": "18,00 mill. €",
+      "ValorActual": "18,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Gianluca Mancini",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/256448-1663581060.jpg?lm=1",
+      "Posición": "Defensa central"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "29",
+    "Club": "AS Roma",
+    "Valor": {
+      "ValorMasAlto": "30,00 mill. €",
+      "ValorActual": "18,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Timothy Weah",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/370846-1692277669.jpg?lm=1",
+      "Posición": "Extremo derecho"
+    },
+    "Nacionalidades": [
+      "Estados Unidos",
+      "Francia"
+    ],
+    "Edad": "25",
+    "Club": "Juventus de Turín",
+    "Valor": {
+      "ValorMasAlto": "17,00 mill. €",
+      "ValorActual": "17,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Mile Svilar",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/338670-1725532174.jpg?lm=1",
+      "Posición": "Portero"
+    },
+    "Nacionalidades": [
+      "Serbia",
+      "Bélgica"
+    ],
+    "Edad": "25",
+    "Club": "AS Roma",
+    "Valor": {
+      "ValorMasAlto": "17,00 mill. €",
+      "ValorActual": "17,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Alexis Saelemaekers",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/381950-1609842664.jpg?lm=1",
+      "Posición": "Extremo derecho"
+    },
+    "Nacionalidades": [
+      "Bélgica"
+    ],
+    "Edad": "25",
+    "Club": "AS Roma",
+    "Valor": {
+      "ValorMasAlto": "20,00 mill. €",
+      "ValorActual": "17,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Billy Gilmour",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/423744-1701544195.jpg?lm=1",
+      "Posición": "Pivote"
+    },
+    "Nacionalidades": [
+      "Escocia"
+    ],
+    "Edad": "24",
+    "Club": "SSC Nápoles",
+    "Valor": {
+      "ValorMasAlto": "18,00 mill. €",
+      "ValorActual": "16,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Andrea Pinamonti",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/315865-1692883161.jpg?lm=1",
+      "Posición": "Delantero centro"
+    },
+    "Nacionalidades": [
+      "Italia"
+    ],
+    "Edad": "26",
+    "Club": "Génova",
+    "Valor": {
+      "ValorMasAlto": "20,00 mill. €",
+      "ValorActual": "16,00 mill. €"
+    },
+    "Ultimarevisión": "18/12/2024"
+  },
+  {
+    "Jugador": {
+      "Nombre": "Ruben Loftus-Cheek",
+      "Foto": "https://img.a.transfermarkt.technology/portrait/medium/202886-1692879593.jpg?lm=1",
+      "Posición": "Mediocentro"
+    },
+    "Nacionalidades": [
+      "Inglaterra",
+      "Guyana"
+    ],
+    "Edad": "29",
+    "Club": "AC Milan",
+    "Valor": {
+      "ValorMasAlto": "30,00 mill. €",
+      "ValorActual": "16,00 mill. €"
+    },
+    "Ultimarevisión": "25/03/2025"
+  }
+]
