@@ -26,5 +26,5 @@ El scraper guarda automáticamente los datos en tres formatos:
 
 ```bash
 git clone https://github.com/AlexanderGarcia27/Scrapin-SerieA.git
-cd Practica-Futbol
+cd Scrapin-SerieA
 npm start
